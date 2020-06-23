@@ -18,7 +18,8 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: Hi, my name is Hirad Tabatabaei. I'm currently an undergraduate student in Electrical Engineering at University of Massachusetts Amherst. 
+
 
 interests:
 - Artificial Intelligence
@@ -64,6 +65,6 @@ user_groups:
 - Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Hi, my name is Hirad Tabatabaei. I'm currently an undergraduate student in Electrical Engineering at University of Massachusetts Amherst. I am interested in attending graduate school. my fields of interest include signal processing, machine learning and robotics. I am also knowledgable in the field of circuits and electronics. 
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+
