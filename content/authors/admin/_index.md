@@ -29,7 +29,7 @@ interests:
 education:
   courses:
   - course: BSc in Electrical Engineering
-    institution: University of massachusetts Amherst
+    institution: University of Massachusetts Amherst
     year: 2017 - present
   
 # Social/Academic Networking
