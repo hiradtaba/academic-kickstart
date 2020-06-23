@@ -25,6 +25,7 @@ interests:
 - Signal Processing
 - Machine Learning
 - Robotics
+- Circuits and Electronics
 
 education:
   courses:
