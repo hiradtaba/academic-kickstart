@@ -44,7 +44,7 @@ name = "PSpice"
 name="Atmel Studio"
 
 [[feature]]
-name="Circuit Analysis"
+name="Circuit Design and Analysis"
 
 # Uncomment to use emoji icons.
 # [[feature]]
