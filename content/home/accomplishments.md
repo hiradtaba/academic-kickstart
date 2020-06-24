@@ -57,4 +57,17 @@ date_format = "Jan 2006"
   date_start = "2020-02-01"
   date_end = ""
   description = ""
+  
+[[item]]
+  organization = "Society of Collegiate Leadership and Achievement"
+  organization_url = ""
+  title = "Society of Collegiate Leadership and Achievement Membership"
+  url = ""
+  certificate_url = ""
+  date_start = "2019-11-01"
+  date_end = ""
+  description = ""
+
+
+
 +++
