@@ -46,6 +46,15 @@ name="Atmel Studio"
 [[feature]]
 name="Circuit Design and Analysis"
 
+[[feature]]
+name = "Simulink"
+
+[[feature]]
+name = "Amazon AWS"
+
+[[feature]]
+name  = "LaTeX"
+
 # Uncomment to use emoji icons.
 # [[feature]]
 #  icon = ":smile:"
