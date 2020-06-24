@@ -25,7 +25,7 @@ date_format = "Jan 2006"
   url = ""
   certificate_url = ""
   date_start = "2018-04-01"
-  date_end = ""
+  date_end = "Present"
   description = ""
 
 [[item]]
@@ -35,7 +35,7 @@ date_format = "Jan 2006"
   url = ""
   certificate_url = ""
   date_start = "2018-12-01"
-  date_end = ""
+  date_end = "Present"
   description = ""
   
 [[item]]
@@ -45,7 +45,7 @@ date_format = "Jan 2006"
   url = ""
   certificate_url = ""
   date_start = "2019-08-01"
-  date_end = ""
+  date_end = "Present"
   description = ""
 
 +++
