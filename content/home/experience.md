@@ -37,6 +37,15 @@ date_format = "Jan 2006"
   date_end = "2019-08-15"
   description = """I had the task of advising new College of Engineering students in their course selection during the summer"""
   
+[[experience]]
+  title = "New Student Orientation Course Advisor"
+  company = "UMass Amherst New Student Orientation"
+  company_url = ""
+  location = "Amherst, MA"
+  date_start = "2018-05-21"
+  date_end = "2018-08-10"
+  description = """I had the task of advising new students with their course selection process during the orientation in the summer"""
+  
 
 
 
