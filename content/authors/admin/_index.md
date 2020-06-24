@@ -55,11 +55,11 @@ email: ""
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
-user_groups:
-- Researchers
-- Visitors
+# user_groups:
+# - Researchers
+# - Visitors
 ---
 
-Hi, my name is Hirad Tabatabaei. I'm currently an undergraduate student in Electrical Engineering at University of Massachusetts Amherst. I am interested in attending graduate school. my fields of interest include signal processing, machine learning and robotics. I am also knowledgable in the field of circuits and electronics. 
+Hi, my name is Hirad Tabatabaei. I'm currently an undergraduate student in Electrical Engineering at University of Massachusetts Amherst. I am interested in pursuing reserach opportunities. My fields of interest include signal processing, machine learning and robotics. I am also knowledgable in the field of circuits and electronics. 
 
 
