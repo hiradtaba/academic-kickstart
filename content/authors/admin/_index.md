@@ -40,7 +40,7 @@ education:
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 
 social:
- - icon: github
+- icon: github
   icon_pack: fab
   link: https://github.com/hiradtaba
   
