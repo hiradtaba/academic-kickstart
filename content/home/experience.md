@@ -34,7 +34,7 @@ date_format = "Jan 2006"
   company_url = ""
   location = "Amherst, MA"
   date_start = "2019-05-20"
-  date_end = ""
+  date_end = "2019-08-15"
   description = """I had the task of advising new College of Engineering students in their course selection during the summer"""
   
 
