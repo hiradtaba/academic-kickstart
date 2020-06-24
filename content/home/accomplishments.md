@@ -47,5 +47,14 @@ date_format = "Jan 2006"
   date_start = "2019-08-01"
   date_end = ""
   description = ""
-
+  
+[[item]]
+  organization = "UMass Amherst Eta Kappa Nu (HKN)"
+  organization_url = ""
+  title = "Eta Kappa Nu (HKN) Membership"
+  url = ""
+  certificate_url = ""
+  date_start = "2020-02-01"
+  date_end = ""
+  description = ""
 +++
