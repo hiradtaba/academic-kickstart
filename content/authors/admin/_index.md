@@ -22,10 +22,11 @@ bio: Hi, my name is Hirad Tabatabaei. I'm currently an undergraduate student in 
 
 
 interests:
- - Signal Processing
- - Machine Learning
- - Robotics
- - Circuits and Electronics
+- Signal Processing
+- Machine Learning
+- Robotics
+- Circuits and Electronics
+
 
 education:
   courses:
