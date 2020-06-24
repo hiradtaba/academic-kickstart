@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Undergraduate Student
+role: Electrical Engineering Student
 
 # Organizations/Affiliations
 organizations:
