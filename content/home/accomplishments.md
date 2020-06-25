@@ -75,5 +75,13 @@ date_format = "Jan 2006"
   date_start = "2017-09-01"
   date_end = ""
   description = ""
+  
+[[item]]
+  organization = "Univeristy of Massachusetts Amherst"
+  organization_url = ""
+  title = "Member of UMass Amherst's Dean List"
+  date_start = "2017-12-01"
+  date_end = ""
+  description = ""
 
 +++
