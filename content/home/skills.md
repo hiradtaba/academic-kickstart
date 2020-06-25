@@ -55,6 +55,21 @@ name = "Amazon AWS"
 [[feature]]
 name  = "LaTeX"
 
+[[feature]]
+name = "Microsoft Excel"
+
+[[feature]]
+name = "Mathematics"
+
+[[feature]]
+name = "Microsoft Word"
+
+[[feature]]
+name = "Signal Processing"
+
+[[feature]]
+name = "Microsoft PowerPoint"
+
 # Uncomment to use emoji icons.
 # [[feature]]
 #  icon = ":smile:"
