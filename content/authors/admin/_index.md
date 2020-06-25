@@ -34,6 +34,10 @@ education:
     institution: University of Massachusetts Amherst
     year: 2017 - present
   
+  - course: High School Diploma
+    institution: Georges Vanier Secondary School, Toronto, Canada
+    year: 2014-2017
+    
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
