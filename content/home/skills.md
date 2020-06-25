@@ -70,6 +70,9 @@ name = "Signal Processing"
 [[feature]]
 name = "Microsoft PowerPoint"
 
+[[feature]]
+name = "hirad"
+
 # Uncomment to use emoji icons.
 # [[feature]]
 #  icon = ":smile:"
