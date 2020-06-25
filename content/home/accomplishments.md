@@ -123,5 +123,13 @@ date_format = "Jan 2006"
   date_start = "2015-03-15"
   date_end = ""
   description = ""
+  
+[[item]]
+  organization = "Georges Vanier Secondary School"
+  organization_url = ""
+  title = "Honor Roll membership"
+  date_start = "2014-12-20"
+  date_end = "2017-06-15"
+  description = ""
 
 +++
