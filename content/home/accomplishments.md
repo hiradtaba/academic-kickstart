@@ -104,10 +104,17 @@ date_format = "Jan 2006"
   organization = "University of Waterloo"
   organization_url = ""
   title = "Fermat Math Competition Certificate of Excellence"
-  date_start = "2016-11-23"
+  date_start = "2016-10-11"
   date_end = ""
   description = ""
-  
+ 
+[[item]]
+  organization = "University of Waterloo"
+  organization_url = ""
+  title = "Pascal Math Competition Certificate of Excellence"
+  date_start = "2015-11-22" 
+  date_end = ""
+  description = ""
   
 
 +++
