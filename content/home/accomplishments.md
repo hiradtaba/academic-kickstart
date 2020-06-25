@@ -68,7 +68,7 @@ date_format = "Jan 2006"
   date_end = ""
   description = ""
 
-[[[item]]
+[[item]]
   organization = "University of Massachusetts Amherst"
   organization_url = ""
   title = "Recipient of UMass Amherst Chancellor's Award"
