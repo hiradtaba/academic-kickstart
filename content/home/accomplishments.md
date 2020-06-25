@@ -101,7 +101,7 @@ date_format = "Jan 2006"
   description = ""
   
 [[item]]
-  organization: "University of Waterloo"
+  organization = "University of Waterloo"
   organization_url = ""
   title = "Fermat Math Competition Certificate of Excellence"
   date_start = "2016-11-23"
