@@ -73,7 +73,7 @@ date_format = "Jan 2006"
   organization_url = ""
   title = "Recipient of UMass Amherst Chancellor's Award"
   date_start = "2017-09-01"
-  date_end = ""
+  date_end = "Present"
   description = ""
   
 [[item]]
