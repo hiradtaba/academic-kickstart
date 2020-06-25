@@ -83,5 +83,13 @@ date_format = "Jan 2006"
   date_start = "2017-12-01"
   date_end = ""
   description = ""
+  
+[[item]]
+  organization = "Toronto District School Board"
+  organization_url = ""
+  title = "Ontario Scholar"
+  date_start = "2017-06-20"
+  date_end = ""
+  description = ""
 
 +++
