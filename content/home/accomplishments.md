@@ -91,5 +91,14 @@ date_format = "Jan 2006"
   date_start = "2017-06-20"
   date_end = ""
   description = ""
+  
+[[item]]
+  organization = "Toronto District School Board"
+  organization_url = ""
+  title = "Certificate of Excellence in Math, Science and Computer Science"
+  date_start = "2017-06-10"
+  date_end = ""
+  description = ""
+  
 
 +++
