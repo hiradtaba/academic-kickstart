@@ -79,7 +79,7 @@ date_format = "Jan 2006"
 [[item]]
   organization = "Univeristy of Massachusetts Amherst"
   organization_url = ""
-  title = "Member of UMass Amherst's Dean List"
+  title = "Member of UMass Amherst Dean's List"
   date_start = "2017-12-01"
   date_end = ""
   description = "I have been a member of UMass Amherst Dean's List for five semesters during my undergradute studies"
