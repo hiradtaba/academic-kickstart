@@ -19,14 +19,14 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[item]]
-  organization = "National society of Collegiate Scholars"
+  organization = "National Society of Collegiate Scholars"
   organization_url = ""
   title = "National Society of Collegiate Scholars Membership"
   url = ""
   certificate_url = ""
   date_start = "2018-04-01"
   date_end = ""
-  description = ""
+  description = "I have been a member of the National Society of Collegiate Scholars since April 2018."
 
 [[item]]
   organization = "National Society of Leadership and Success"
@@ -36,7 +36,7 @@ date_format = "Jan 2006"
   certificate_url = ""
   date_start = "2018-12-01"
   date_end = ""
-  description = ""
+  description = "I have been a member of the National Society of Leadership and Success since December of 2018."
   
 [[item]]
   organization = "Honor Society"
@@ -46,7 +46,7 @@ date_format = "Jan 2006"
   certificate_url = ""
   date_start = "2019-08-01"
   date_end = ""
-  description = ""
+  description = "I have been a member of the Honor Society since August 2019"
   
 [[item]]
   organization = "UMass Amherst Eta Kappa Nu (HKN)"
@@ -56,7 +56,7 @@ date_format = "Jan 2006"
   certificate_url = ""
   date_start = "2020-02-01"
   date_end = ""
-  description = ""
+  description = "I have been a member of the UMass Amherst chapter of Eta Kappa Nu (HKN) since February 2020"
   
 [[item]]
   organization = "Society of Collegiate Leadership and Achievement"
@@ -66,7 +66,7 @@ date_format = "Jan 2006"
   certificate_url = ""
   date_start = "2019-11-01"
   date_end = ""
-  description = ""
+  description = "I have been a member of the Society of Collegiate Leadership and Achievement since November 2019"
 
 [[item]]
   organization = "University of Massachusetts Amherst"
