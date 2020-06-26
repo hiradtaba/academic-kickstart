@@ -106,7 +106,7 @@ date_format = "Jan 2006"
   title = "Fermat Math Competition Award of Distinction"
   date_start = "2016-10-11"
   date_end = ""
-  description = ""
+  description = "This was an award I received from University of Waterloo due to my high performance in the Fermat Math Competition"
  
 [[item]]
   organization = "University of Waterloo"
@@ -114,7 +114,7 @@ date_format = "Jan 2006"
   title = "Pascal Math Competition Award of Distinction"
   date_start = "2015-11-22" 
   date_end = ""
-  description = ""
+  description = "This was an award I received from Univeristy of Waterloo due to my high performance in the Pascal Math Competition"
 
 [[item]]
   organization = "University of British Columbia"
@@ -122,7 +122,7 @@ date_format = "Jan 2006"
   title = "Michael Smith Science Challenge Award of Distinction"
   date_start = "2015-03-15"
   date_end = ""
-  description = ""
+  description = "This was an award I received from University of British Columbia due to my high performance in the Michael Smith Science Challenge"
   
 [[item]]
   organization = "Georges Vanier Secondary School"
