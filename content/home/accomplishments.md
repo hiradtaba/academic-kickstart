@@ -74,7 +74,7 @@ date_format = "Jan 2006"
   title = "Recipient of UMass Amherst Chancellor's Award"
   date_start = "2017-09-01"
   date_end = ""
-  description = ""
+  description = "I have received the UMass Amerst Chancellor Award due to my high academic performance"
   
 [[item]]
   organization = "Univeristy of Massachusetts Amherst"
@@ -82,7 +82,7 @@ date_format = "Jan 2006"
   title = "Member of UMass Amherst's Dean List"
   date_start = "2017-12-01"
   date_end = ""
-  description = ""
+  description = "I have been a member of UMass Amherst Dean's List for five semesters during my undergradute studies"
   
 [[item]]
   organization = "Toronto District School Board"
