@@ -90,7 +90,7 @@ date_format = "Jan 2006"
   title = "Ontario Scholar"
   date_start = "2017-06-20"
   date_end = ""
-  description = ""
+  description = "This was an award given to students who finished high school among the top 10 percent of all students in the Toronto District School Board"
   
 [[item]]
   organization = "Toronto District School Board"
@@ -98,7 +98,7 @@ date_format = "Jan 2006"
   title = "Certificate of Excellence in Math, Science and Computer Science"
   date_start = "2017-06-10"
   date_end = ""
-  description = ""
+  description = "I graduated from a specialized program in high school that focused heavily on math, science and computer science"
   
 [[item]]
   organization = "University of Waterloo"
@@ -130,6 +130,6 @@ date_format = "Jan 2006"
   title = "Honor Roll membership"
   date_start = "2014-12-20"
   date_end = "2017-06-15"
-  description = ""
+  description = "I was a member of my high school's honor roll during every semester that I attended it"
 
 +++
