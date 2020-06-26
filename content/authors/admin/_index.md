@@ -27,7 +27,7 @@ interests:
 - Robotics
 - Computer Vision
 - Circuits and Electronics
-- Computer Programming
+- Computer Systems
 - Computer Networks
 
 
