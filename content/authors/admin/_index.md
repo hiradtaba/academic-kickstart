@@ -69,6 +69,6 @@ email: ""
 # - Visitors
 ---
 
-Hi, my name is Hirad Tabatabaei. I'm currently an undergraduate student in Electrical Engineering at University of Massachusetts Amherst. I am interested in pursuing reserach opportunities "https://github.com/hiradtaba". My main fields of interest include Signal Processing, Machine Learning, Robotics and Computer Vision. I am also knowledgable in the field of Circuits and Electronics.I am also very interested in and have a lot of exerience in programming.  
+Hi, my name is Hirad Tabatabaei. I'm currently an undergraduate student in Electrical Engineering at University of Massachusetts Amherst. I am interested in pursuing reserach opportunities https://github.com/hiradtaba. My main fields of interest include Signal Processing, Machine Learning, Robotics and Computer Vision. I am also knowledgable in the field of Circuits and Electronics.I am also very interested in and have a lot of exerience in programming.  
 
 
