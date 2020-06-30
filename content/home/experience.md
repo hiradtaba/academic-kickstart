@@ -26,7 +26,7 @@ date_format = "Jan 2006"
   location = "Syracuse, New York"
   date_start = "2020-05-26"
   date_end = ""
-  description = """ """
+  description = ""
   
 [[experience]]
   title = "College of Engineering Academic Advisor"
