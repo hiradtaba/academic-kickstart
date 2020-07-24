@@ -26,7 +26,7 @@ date_format = "Jan 2006"
   location = "Syracuse, New York"
   date_start = "2020-05-26"
   date_end = ""
-  description = "I work remotely in a group as part of a project to build a Wireless Alarm system. During the project I have the task of designing and simulating RF circuits using PSpice. I also use MATLAB and Excel to analyze data that I received from the simulations."
+  description = "I work remotely in a group as part of a project to design a Wireless Alarm system. During the project I have the task of designing and simulating RF circuits using PSpice. I also use MATLAB and Excel to analyze data that I received from the simulations."
   
 [[experience]]
   title = "College of Engineering Academic Advisor"
