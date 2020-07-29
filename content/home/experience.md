@@ -29,7 +29,7 @@ date_format = "Jan 2006"
   description = "I work remotely in a group as part of a project to design a Wireless Alarm System. During the project I have the task of designing and simulating RF circuits using PSpice. I also use MATLAB and Excel to analyze data that I receive from the simulations."
   
 [[experience]]
-  title = "College of Engineering Academic Advisor"
+  title = "Course Advisor"
   company = "UMass Amherst College of Engineering"
   company_url = ""
   location = "Amherst, MA"
