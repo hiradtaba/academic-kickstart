@@ -25,7 +25,7 @@ date_format = "Jan 2006"
   company_url = ""
   location = "Syracuse, New York"
   date_start = "2020-05-26"
-  date_end = ""
+  date_end = "2020-08-14"
   description = "I work remotely in a group as part of a project to design a Wireless Alarm System. During the project I have the task of designing and simulating RF circuits using PSpice. I also use MATLAB and Excel to analyze data that I receive from the simulations."
   
 [[experience]]
