@@ -36,7 +36,7 @@ description = "I have the task of tutoring students in the course Circuits and E
   location = "Syracuse, New York"
   date_start = "2020-05-26"
   date_end = "2020-08-14"
-  description = "I work remotely in a group as part of a project to design a Wireless Alarm System. During the project I have the task of designing and simulating RF circuits using PSpice. I also use MATLAB and Excel to analyze data that I receive from the simulations."
+  description = "I worked remotely in a group as part of a project to design a Wireless Alarm System. During the project I had the task of designing and simulating RF circuits using PSpice. I also used MATLAB and Excel to analyze data that I received from the simulations."
   
 [[experience]]
   title = "Course Advisor"
