@@ -33,7 +33,7 @@ interests:
 
 education:
   courses:
-  - course: BSc in Electrical Engineering
+  - course: BS in Electrical Engineering
     institution: University of Massachusetts Amherst
     year: 2017 - present
   
