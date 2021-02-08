@@ -30,13 +30,13 @@ description = "I have the task of tutoring students in the course Circuits and E
 
 
 [[experience]]
-  title = "RF Engineering Intern"
-  company = "TTM Technologies Inc."
+  title = "Research Intern"
+  company = "Bridgewater State University"
   company_url = ""
-  location = "Syracuse, New York"
+  location = "Bridgewater, MA"
   date_start = "2020-05-26"
   date_end = "2020-08-14"
-  description = "I worked remotely in a group as part of a project to design a Wireless Alarm System. During the project I had the task of designing and simulating RF circuits using PSpice. I also used MATLAB and Excel to analyze data that I received from the simulations."
+  description = "Implemented the behavior of Proof of Stake and Proof of Work consensus algorithms for Blockchain using Python. The algorithms were tasked with selecting a new block signer each round. This experience also led to the production of a research paper"
   
 [[experience]]
   title = "Course Advisor"
