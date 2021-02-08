@@ -47,10 +47,7 @@ name="Atmel Studio"
 name="Circuit Design and Analysis"
 
 [[feature]]
-name = "Simulink"
-
-[[feature]]
-name = "Amazon AWS"
+name = "Altium"
 
 [[feature]]
 name  = "LaTeX"
@@ -69,6 +66,9 @@ name = "Signal Processing"
 
 [[feature]]
 name = "Microsoft PowerPoint"
+
+[[feature]]
+name = "ARMv8 Assembly"
 
 
 # Uncomment to use emoji icons.
