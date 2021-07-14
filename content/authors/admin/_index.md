@@ -10,11 +10,11 @@ authors:
 superuser: true
 
 # Role/position
-role: Electrical Engineering Student
+role: Electronics Designer
 
 # Organizations/Affiliations
 organizations:
-- name: University of Massachusetts Amherst
+- name: Prodrive Technologies
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
