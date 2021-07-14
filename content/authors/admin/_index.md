@@ -18,7 +18,7 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: Hi, my name is Hirad Tabatabaei. I'm currently an undergraduate student in Electrical Engineering at University of Massachusetts Amherst. 
+bio: Hi, my name is Hirad Tabatabaei. I'm currently an electronics designer at Prodrive Technologies.
 
 
 interests:
@@ -35,7 +35,7 @@ education:
   courses:
   - course: BS in Electrical Engineering
     institution: University of Massachusetts Amherst
-    year: 2017 - present
+    year: 2017 - 2021
   
   - course: High School Diploma
     institution: Georges Vanier Secondary School, Toronto, Canada
@@ -70,6 +70,6 @@ email: ""
 # - Visitors
 ---
 
-My name is Hirad Tabatabaei. I'm currently an undergraduate student in Electrical Engineering at University of Massachusetts Amherst. I am interested in pursuing reserach opportunities. My main fields of interest include Signal Processing, Machine Learning, Robotics and Computer Vision. I am also knowledgable in the field of Circuits and Electronics. I also enjoy computer programming and I have a strong background in it.  
+My name is Hirad Tabatabaei. I'm currently an electronics designer at Prodrive Technologies. Before that, I was an undergraduate student in Electrical Engineering at University of Massachusetts Amherst. I am interested in pursuing reserach opportunities. My main fields of interest include Signal Processing, Machine Learning, Robotics and Computer Vision. I am also knowledgable in the field of Circuits and Electronics. I also enjoy computer programming and I have a strong background in it.  
 
 
