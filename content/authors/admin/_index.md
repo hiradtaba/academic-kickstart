@@ -33,6 +33,11 @@ interests:
 
 education:
   courses:
+  - course: MS in Electrical and Computer Engineering
+    institution: Northeastern Univeristy
+    year: 2021-2023
+    
+    
   - course: BS in Electrical Engineering
     institution: University of Massachusetts Amherst
     year: 2017 - 2021
