@@ -44,9 +44,18 @@ description = "I have the task of tutoring students in the course Circuits and E
   company = "Bridgewater State University"
   company_url = ""
   location = "Bridgewater, MA"
-  date_start = "2020-05-26"
-  date_end = "2020-08-14"
+  date_start = "2020-06-28"
+  date_end = "2020-11-14"
   description = "Implemented the behavior of Proof of Stake and Proof of Work consensus algorithms for Blockchain using Python. The algorithms were tasked with selecting a new block signer each round. This experience also led to the production of a research paper"
+  
+[[experience]]
+  title = "RF Engineering Intern"
+  company = "TTM Technologies"
+  company_url = ""
+  location = "Syracuse, NY"
+  date_start = "2020-05-26"
+  date_end = "2020-06-26"
+  description = "" 
   
 [[experience]]
   title = "Course Advisor"
