@@ -55,7 +55,7 @@ description = "I have the task of tutoring students in the course Circuits and E
   location = "Syracuse, NY"
   date_start = "2020-05-26"
   date_end = "2020-06-26"
-  description = "" 
+  description = "Designed and simulated circuits using PSpice. Used MATLAB and Excel to analyze data that I received from the simulations" 
   
 [[experience]]
   title = "Course Advisor"
